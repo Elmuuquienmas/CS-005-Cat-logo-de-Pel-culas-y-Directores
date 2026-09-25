@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+bin/
+out/
+build/
+
+# Archivos propios del IDE (VSCode, IntelliJ, Eclipse)
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# Dependencias (para cuando escales con Maven/Gradle)
+target/
+.gradle/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
